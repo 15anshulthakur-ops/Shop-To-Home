@@ -1,0 +1,17 @@
+{
+  "name": "Blinkit Clone",
+  "short_name": "Blinkit",
+  "description": "Fastest grocery delivery app.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#F8C200",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3737/3737372.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

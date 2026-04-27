@@ -1,0 +1,6 @@
+{
+  "appId": "com.quickcart.app",
+  "appName": "QuickCart",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
